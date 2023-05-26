@@ -14,4 +14,4 @@ Medical physics, Monte-Carlo simulation, Machine learning.
 buitienhung@vinatom.gov.vn
 hungbt1908@gmail.com
 
-Vietnam Atomic Energy Institute, No 59 Ly Thuong Kiet stree, Hoan Kiem district, Hanoi, Vietnam.
+Vietnam Atomic Energy Institute, No 59 Ly Thuong Kiet street, Hoan Kiem district, Hanoi, Vietnam.
