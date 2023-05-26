@@ -1,4 +1,17 @@
-#Tác giả
-- About me: [Bùi Tiến Hưng](https://github.com/HungBuiTien)
-- Email: hungbuitien19081997@gmail.com, bthung.vinatom@gmail.com
-- Nghiên cứu viên, Viện Năng lượng nguyên tử Việt Nam.
+## 🚀 About Me
+**Bùi Tiến Hưng**
+
+Master of Science in Nuclear Engineering field.
+
+Nuclear Engineering Lab, Hanoi University of Science and Technology (HUST).
+
+Department of Planning and R&D Management, Vietnam Atomic Energy Institute (VINATOM).
+
+**Interestet Fields**
+
+Medical physics, Monte-Carlo simulation, Machine learning.
+ 
+buitienhung@vinatom.gov.vn
+hungbt1908@gmail.com
+
+Vietnam Atomic Energy Institute, No 59 Ly Thuong Kiet stree, Hoan Kiem district, Hanoi, Vietnam.
